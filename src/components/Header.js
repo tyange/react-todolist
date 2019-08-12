@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="/">
+        <a className="navbar-brand" href="/">
           React TodoList
         </a>
       </nav>
